@@ -1,4 +1,4 @@
-# pruebas-vue
+# Practica de Vue & Typescript
 
 ## Project setup
 ```
